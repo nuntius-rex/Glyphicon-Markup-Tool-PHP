@@ -1,5 +1,5 @@
 # Glyphicon-Markup-Tool-PHP
-Provides a way to create a shorthand markup tool for Bootstrap Glyphicons, for PHP CMS usage.
+Provides a way to create a shorthand markup tool for Bootstrap Glyphicons for usage in a PHP CMS.
 
 Description: Bootstrap provides a powerful collection of icons available to developers for usage in their sites called Glyphicons. This is great for developers, but what if you wanted to allow a content manager to create them without knowing how to program?
 
